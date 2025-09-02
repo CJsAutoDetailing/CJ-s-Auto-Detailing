@@ -1,0 +1,4 @@
+robots.txt
+User-agent: *
+Allow: /
+Sitemap: https://cjsautodetailing.github.io/CJ-s-Auto-Detailing/sitemap.xml
